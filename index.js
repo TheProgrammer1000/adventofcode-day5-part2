@@ -1,7 +1,7 @@
-const hej = () => {
-  console.log("TAJBABAABABA");
+const hallo = () => {
+  console.log("Tjaba");
 }
 
 const tjaba = () => {
-  console.log("SÅDÄÄÄÄÄÄR JAAAAAAAA");
+  console.log("Sådär JA");
 }
