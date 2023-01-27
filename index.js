@@ -5,3 +5,5 @@ const hallo = () => {
 const tjaba = () => {
   console.log("Sådär JA");
 }
+
+console.log("awdawd");
