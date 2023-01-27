@@ -1,4 +1,3 @@
-console.log("BARA SIFFROR");
-function tja() {
-  console.log("Hur gåre!");
+const hej = () => {
+  console.log("TAJBABAABABA");
 }
